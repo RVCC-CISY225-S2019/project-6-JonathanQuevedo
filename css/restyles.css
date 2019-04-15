@@ -1,0 +1,16 @@
+body {
+    font-family: "Aleo", serif;
+    margin: 0;
+
+}
+
+img {
+    max-width: 100%;
+}
+
+input [type=text] {
+    border: 1em;
+}
+legend{
+    width: 100%;
+}
